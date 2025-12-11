@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Hello World",
+  "description": "A polished starter application demonstrating React, TypeScript, Tailwind CSS, and Google Gemini API integration.",
+  "requestFramePermissions": []
+}
